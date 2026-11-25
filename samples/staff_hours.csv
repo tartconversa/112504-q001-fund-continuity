@@ -1,0 +1,6 @@
+interval,person,project,month,hours,allocation,class,rev
+I1,K1,P1,2026-10,30,0.6,service,1
+I1,K1,P2,2026-10,30,0.4,uncertain,1
+I1,K1,P2,2026-10,30,0.4,management,2
+I2,K2,P1,2026-11,20,1,service,1
+I3,K1,P2,2026-12,50,1,uncertain,1

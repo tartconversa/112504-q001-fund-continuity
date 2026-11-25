@@ -1,0 +1,6 @@
+contract,party,project,start,end,fee_month,state,signed_on
+K1,worker_a,P1,2026-08,2027-02,11000,signed,2026-11-06
+K2,worker_b,P2,2026-09,2026-12,6600,paid,2026-08-28
+K3,venue,P1,2026-11,2027-02,2700,signed,2026-11-07
+K4,worker_b,P2,2027-01,2027-04,7300,proposed,
+K5,venue,P2,2027-01,2027-03,4400,proposed,

@@ -1,0 +1,5 @@
+fund,payer,use,limit,active_from,active_to,condition
+F1,parent,service,120000,2026-08,2027-02,acceptance
+F2,street,service,70000,2026-07,2026-12,acceptance
+F3,sponsor,event,22000,2026-10,2026-12,delivery
+F4,local,free,18000,2026-08,2027-12,credited
